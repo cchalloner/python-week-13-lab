@@ -1,0 +1,8 @@
+transaction_type,amount,category
+income,2000.00,Paycheck
+expense,150.00,Groceries
+expense,80.00,Gas
+expense,120.00,Utilities
+income,300.00,Side Gig
+expense,45.00,Entertainment
+expense,150.00,Groceries
